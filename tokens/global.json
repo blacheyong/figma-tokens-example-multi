@@ -145,10 +145,14 @@
         "value": "#212121",
         "type": "color"
       }
+    },
+    "primary": {
+      "value": "#3d53f5",
+      "type": "color"
+    },
+    "alert": {
+      "value": "#df1642",
+      "type": "color"
     }
-  },
-  "primary": {
-    "value": "#3d53f5",
-    "type": "color"
   }
 }

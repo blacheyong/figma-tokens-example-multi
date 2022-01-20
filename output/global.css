@@ -34,5 +34,6 @@
   --colors-grey-800: #424242;
   --colors-grey-900: #323232;
   --colors-grey-950: #212121;
-  --primary: #3d53f5;
+  --colors-primary: #3d53f5;
+  --colors-alert: #df1642;
       }
