@@ -146,5 +146,9 @@
         "type": "color"
       }
     }
+  },
+  "primary": {
+    "value": "#3d53f5",
+    "type": "color"
   }
 }
