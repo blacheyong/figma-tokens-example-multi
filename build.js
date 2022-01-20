@@ -38,6 +38,14 @@ function getStyleDictionaryConfig(theme) {
             "format": "css/variables",
             "selector": `.${theme}-theme`
           }]
+      },
+      "scss": {
+        "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px"],
+        "buildPath": `src/scss`,
+        "files": [{
+          "destination": `${theme}.css`,
+          "format": "scss/variables"
+        }]
       }
     }
   };
