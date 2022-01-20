@@ -41,9 +41,9 @@ function getStyleDictionaryConfig(theme) {
       },
       "scss": {
         "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px"],
-        "buildPath": `src/scss`,
+        "buildPath": `src/scss/`,
         "files": [{
-          "destination": `${theme}.css`,
+          "destination": `${theme}.scss`,
           "format": "scss/variables"
         }]
       }
