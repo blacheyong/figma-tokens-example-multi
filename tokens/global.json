@@ -154,5 +154,15 @@
       "value": "#df1642",
       "type": "color"
     }
+  },
+  "_buttons": {
+    "primary-bg": {
+      "value": "#3d53f5",
+      "type": "color"
+    },
+    "primary-text": {
+      "value": "#ffffff",
+      "type": "color"
+    }
   }
 }
